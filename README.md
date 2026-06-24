@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Suraj 👋
 
-<!--
-**surajdotdev/surajdotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering Student | Web Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+## Currently:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Working on personal web projects
+* Learning full-stack development
+* Exploring AI and automation
+
+## Tech:
+HTML • CSS • JavaScript • Python • Git • Canva
+
+## Contact:
+surajmohapatra@gmail.com
+
+│ Building websites, AI projects, and useful things on the internet.
